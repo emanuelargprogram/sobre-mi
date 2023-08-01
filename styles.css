@@ -1,0 +1,35 @@
+html {
+    background-color: chartreuse;
+    /* le di color al html*/
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    background-color: #2a96c4;  
+    border: 5px solid black;
+    /* aca le di color al cuerpo y le di margenes*/
+}
+
+.tam { 
+    max-width: 60%;
+    max-height: 60%;
+    margin-top: 8px;
+    margin-bottom: 8px;
+/* le di tamaño a la imagen*/
+}
+.vid {
+    max-width: 60%;
+    max-height: 60%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /*le di tamaño al video*/
+}
+
+.centrar {
+    text-align: center;
+    /*centre las imagenes y el texto*/
+
+}
+
